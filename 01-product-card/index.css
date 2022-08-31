@@ -61,11 +61,11 @@
     background: #FFCF56;
 }
 
-.card-information {
+.card__information {
     padding: 20px 24px 22px;
 }
 
-.card-title {
+.card__title {
     font-weight: 900;
     font-size: 24px;
     line-height: 36px;
@@ -73,7 +73,7 @@
     margin: 0;
 }
 
-.card-text{
+.card__text{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
